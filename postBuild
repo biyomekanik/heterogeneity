@@ -1,2 +1,6 @@
+Rscript -e 'install.packages(c('repr', 'IRdisplay', 'pbdZMQ', 'devtools'))'
+Rscript -e 'devtools::install_github("GRousselet/rogme")'
+Rscript -e 'devtools::install_github("wesm/feather/R")'
+Rscript -e 'devtools::install_github("nik01010/dashboardthemes")'
 wget -O Stats_derivatives.zip https://osf.io/y68sm/download/
 unzip Stats_derivatives.zip -d /tmp
