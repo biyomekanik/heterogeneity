@@ -9,7 +9,7 @@ ARG NB_UID
 USER root
 COPY . ${HOME}
 RUN pip install --upgrade pip --ignore-installed certifi; \
-    pip install -r requirements.txt;
+    pip install -r requirements.txt; \
     ./postBuild
         
 ## Enable this to copy files from the binder subdirectory
