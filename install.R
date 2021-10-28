@@ -1,0 +1,12 @@
+install.packages("ggplot2")
+install.packages("gridextra")
+install.packages("R.matlab")
+install.packages("plotly")
+install.packages("plyr")
+install.packages("cowplot")
+install.packages(c('repr', 'IRdisplay', 'pbdZMQ', 'devtools'))
+devtools::install_github('IRkernel/IRkernel')
+devtools::install_github('GRousselet/rogme')
+devtools::install_github("wesm/feather/R")
+IRkernel::installspec()
+
