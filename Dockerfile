@@ -8,8 +8,8 @@ ARG NB_UID
 ## Copies your repo files into the Docker Container
 USER root
 COPY . ${HOME}
-RUN pip install --upgrade pip --ignore-installed certifi; \
-    pip install -r requirements.txt; \
+RUN pip3 install --upgrade pip --ignore-installed certifi; \
+    pip3 install -r requirements.txt; \
     ./postBuild
         
 ## Enable this to copy files from the binder subdirectory
