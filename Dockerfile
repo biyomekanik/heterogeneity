@@ -1,5 +1,5 @@
 ## Use a tag instead of "latest" for reproducibility
-FROM rocker/binder:4.1
+FROM jupyter/r-notebook:dffb5c4f1ed9
 
 ## Declares build arguments
 ARG NB_USER
