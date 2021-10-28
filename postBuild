@@ -1,0 +1,2 @@
+wget -O Stats_derivatives.zip https://osf.io/y68sm/download/
+unzip Stats_derivatives.zip -d /tmp/Stats_derivatives
