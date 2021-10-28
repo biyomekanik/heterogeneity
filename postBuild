@@ -1,3 +1,3 @@
 wget -O Stats_derivatives.zip https://osf.io/y68sm/download/
-unzip Stats_derivatives.zip -d /tmp
+unzip -x __MACOSX Stats_derivatives.zip -d /tmp
 jupyter labextension install @jupyter-voila/jupyterlab-preview
