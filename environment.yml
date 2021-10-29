@@ -5,6 +5,9 @@ dependencies:
   - r-tidyverse
   - r-plotly
   - r-cowplot
+  - r-R.matlab
+  - r-feather
+  - r-ggridges
   - python=3.6
   - numpy
   - pip
