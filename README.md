@@ -1,16 +1,17 @@
-### Fiber direction strain heterogeneity
+## REPRODUCE THE ANALYSIS ONLINE 
 
-Repository for demons algorithm parameter analysis study.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biyomekanik/heterogeneity/HEAD/main?urlpath=notebooks) [![](https://img.shields.io/badge/Voila-Dashboard-red?style=flat&logo=jupyter)](https://mybinder.org/v2/gh/biyomekanik/heterogeneity/main?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Fstep1_interactive_dashboard.ipynb)
+
+👆 You can click the badges above reproduce statistical analyses & generate interactive figures in a web browser. 
+> No installation required. The dataset will be downloaded to the online runtime. 
+
+## DATASET
 
 [![](https://img.shields.io/badge/DATA%20DOI-10.17605%2FOSF.IO%2F2G9PH-blue)](https://doi.org/10.17605/OSF.IO/2G9PH) 
 
 👆 You can click the badge above to access data (OSF), made publicly available under CC-BY 4.0 License. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biyomekanik/heterogeneity/HEAD/main?urlpath=notebooks) [![](https://img.shields.io/badge/Voila-Dashboard-red?style=flat&logo=jupyter)](https://mybinder.org/v2/gh/biyomekanik/heterogeneity/main?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Fstep1_interactive_dashboard.ipynb)
-
-👆 You can click the badges above reproduce statistical analyses & generate interactive figures in a web browser, no installation required.
-
-## DATA ORGANIZATION & THE INSTRUCTIONS TO REPRODUCE DERIVED DATA
+## DATA ORGANIZATION & REPRODUCIBILITY INSTRUCTIONS
 
 <details>
 <summary>🗂 <code>Stats_raw</code> folder </summary>
