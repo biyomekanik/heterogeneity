@@ -53,7 +53,7 @@
 
 % VTK Fibers 
 % ----------
-% Fibers in VTK format are available on OSF repositor. MatFibers.mat stores
+% Fibers in VTK format are available on OSF repository. MatFibers.mat stores
 % all 80 vtk fibers in struct format. You can use a vtk compatible viewer
 % such as 3D slicer to see the strain encoded fibers or load them into 
 % matlab using: 
