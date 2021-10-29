@@ -6,8 +6,8 @@ dependencies:
   - r-plotly
   - r-cowplot
   - r-R.matlab
-  - r-feather
   - r-ggridges
+  - r-arrow
   - python=3.6
   - numpy
   - pip
