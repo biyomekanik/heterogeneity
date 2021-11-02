@@ -1,6 +1,6 @@
 ## REPRODUCE THE ANALYSIS ONLINE 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biyomekanik/heterogeneity/HEAD?labpath=notebooks) [![](https://img.shields.io/badge/Voila-Dashboard-red?style=flat&logo=jupyter)](https://mybinder.org/v2/gh/biyomekanik/heterogeneity/main?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Fstep1_interactive_dashboard.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biyomekanik/heterogeneity/HEAD?labpath=notebooks%2Fstep3_runHSF_and_visualize.ipynb) [![](https://img.shields.io/badge/Voila-Dashboard-red?style=flat&logo=jupyter)](https://mybinder.org/v2/gh/biyomekanik/heterogeneity/main?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Fstep1_interactive_dashboard.ipynb)
 
 👆 You can click the badges above to reproduce statistical analyses & generate interactive figures in a web browser. 
 > No installation required. The dataset will be downloaded to the online runtime. 
